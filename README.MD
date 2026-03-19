@@ -57,9 +57,3 @@ This project simulates a payment fraud environment and demonstrates how to:
 
 ## Business Interpretation
 This project shows how a fraud analyst can move from raw signals to scoring and decisioning, while balancing fraud prevention and customer friction.
-
-## Next Improvements
-- threshold tuning
-- false positive optimization
-- 3DS strategy simulation
-- dashboard visualization
