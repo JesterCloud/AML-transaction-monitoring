@@ -1,2 +1,3 @@
 *.csv linguist-vendored
 *.txt linguist-vendored
+*.sql linguist-detectable=true
